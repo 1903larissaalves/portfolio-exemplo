@@ -4,8 +4,20 @@ main h1{
     color: #ffffff;
     text-align: center;
     font-family: "arial", sans-serif;
+    padding: 20px;
 }
 h2{
     font-size: 30px;
     font-family: "arial", sans-serif;
+}
+p{
+    text-align: center;
+}
+blockquote{
+    background-color: #D3DDDA;
+    padding: 20px;
+    border: 10px solid #C2CCCA;
+    box-sizing: border-box;
+    width: 250px;
+    margin: 0;
 }
