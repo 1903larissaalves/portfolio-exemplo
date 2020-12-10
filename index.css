@@ -46,6 +46,11 @@ a{
     color: white;
     line-height: 1.2;
 }
-.redesSociais{
+.iconesSociais li{
     display: inline-block;
+}
+#rodape-pagina {
+    background-color: #000;
+    color: #F2FFFC;
+    padding: 20px;
 }
