@@ -36,5 +36,16 @@ main div{
 nav h1{
     font-size: 30px;
     padding: 25px;
-    color: red;
+    color: white;
+}
+aside{
+    background-color: 3C1D3D;
+    text-align: center;
+}
+a{
+    color: white;
+    line-height: 1.2;
+}
+.redesSociais{
+    display: inline-block;
 }
